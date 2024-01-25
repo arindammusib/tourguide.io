@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tourguide.io/static/css/main.c9605b15.css",
+    "main.js": "/tourguide.io/static/js/main.a2b7a2b2.js",
+    "static/js/787.b4cdd736.chunk.js": "/tourguide.io/static/js/787.b4cdd736.chunk.js",
+    "static/media/logo.svg": "/tourguide.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tourguide.io/index.html",
+    "main.c9605b15.css.map": "/tourguide.io/static/css/main.c9605b15.css.map",
+    "main.a2b7a2b2.js.map": "/tourguide.io/static/js/main.a2b7a2b2.js.map",
+    "787.b4cdd736.chunk.js.map": "/tourguide.io/static/js/787.b4cdd736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9605b15.css",
+    "static/js/main.a2b7a2b2.js"
+  ]
+}
